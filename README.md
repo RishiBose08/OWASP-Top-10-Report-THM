@@ -25,7 +25,7 @@ This repository contains my completed OWASP Top 10 lab report from [TryHackMe](h
 ---
 
 ## 📄 Full Report  
-[👉 Click here to view the OWASP Top 10 Report](OWASP_Top_10_TryHackMe_Report.pdf)
+[👉 Click here to view the OWASP Top 10 Report](Owasp_Lab_Report.pdf)
 
 ---
 
